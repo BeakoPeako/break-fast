@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.title("Sign-in Page")
+st.title("Sign-up Page")
 Duser = st.text_input("username")
 Dpassword = st.text_input("password", type="password")
 

@@ -26,4 +26,4 @@ if st.button("Login"):
         st.error("wrong username or password.")
 
 if st.button("New account"):
-    st.switch_page("Sign-in.py")
+    st.switch_page("Sign-up.py")
